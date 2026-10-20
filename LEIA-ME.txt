@@ -1,0 +1,24 @@
+MECÂNICA NA PRÁTICA — SITE DE BIO
+
+Arquivos:
+- index.html: site completo, responsivo e pronto para publicar.
+- assets/logo.png: recorte da logo enviada no print do Instagram.
+
+Testar no computador:
+1. Extraia o ZIP.
+2. Abra a pasta no VS Code.
+3. Abra index.html no navegador ou use a extensão Live Server.
+
+Publicar no Vercel:
+1. Acesse https://vercel.com/ e crie um projeto novo.
+2. Importe o repositório GitHub com estes arquivos, ou use a opção de deploy disponível na sua conta.
+3. Como é um site HTML estático, não precisa de build command nem framework.
+4. Se houver campo Output Directory, deixe vazio ou use a raiz do projeto.
+5. Após publicar, copie o endereço .vercel.app e coloque no campo “Links”/“Site” do Instagram.
+
+Links configurados:
+- SENAI: https://www.sp.senai.br/
+- WhatsApp: https://wa.me/5511962781456 (com mensagem inicial pronta)
+- Instagram: https://www.instagram.com/mecanica.na.pratica/
+
+Observação: o número do WhatsApp precisa estar ativo no WhatsApp para que o botão abra a conversa.
